@@ -65,8 +65,8 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: gg sans;
-  --code-font: Consolas;
+  --main-font: Inter;
+  --code-font: Fira Code;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
